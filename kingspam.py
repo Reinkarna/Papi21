@@ -6,11 +6,11 @@ import sys
 
 def main():
 	os.system('clear')
-	os.system('figlet papiking21')
+	os.system('figlet Hakim Spam15')
 	banner='''
 
-	[+]AUTHOR:Papi king21
-	[+]Youtube : Papi King21
+	[+]AUTHOR:M.Alhakim
+	[+]Instagram : @muhammmad_alhakim15
 	'''
 	print(banner)
 	no = input(' target : ')
